@@ -192,7 +192,7 @@ p {
     }
 
     .third-section {
-        flex-direction: row-reverse;
+        flex-direction: row;
         align-items: center;
     }
 
